@@ -881,8 +881,7 @@ MODEL_PATH = (
 DATA_PATH = (
     BASE_DIR
     / "data"
-    / "processed"
-    / "forecast_model_data.csv"
+    / "forecast_model_data_deploy.csv"
 )
 
 ELASTICITY_PATH = (
