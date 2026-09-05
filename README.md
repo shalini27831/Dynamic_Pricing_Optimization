@@ -1,3 +1,5 @@
+Link : "https://dynamicpricingoptimization-k8n7mu3zb5zcv5v9upitkg.streamlit.app"
+
 Dynamic Pricing Optimization Engine
 
 An AI-powered Dynamic Pricing Optimization Engine that combines LightGBM demand forecasting, time-series signals, price elasticity, and RL-style price optimization to recommend the optimal product price for the next day.
