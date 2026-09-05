@@ -1,0 +1,2 @@
+raw_rows,cancelled_transactions,negative_quantity,zero_quantity,invalid_price,duplicates,final_rows,rows_removed,retention_rate
+1067371,19494,3457,0,2750,12061,1029609,37762,96.46214858751081
